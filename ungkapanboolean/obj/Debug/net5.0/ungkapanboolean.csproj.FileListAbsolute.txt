@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\bin\Debug\net5.0\ungkapanboolean.exe
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\bin\Debug\net5.0\ungkapanboolean.deps.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\bin\Debug\net5.0\ungkapanboolean.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\bin\Debug\net5.0\ungkapanboolean.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\bin\Debug\net5.0\ungkapanboolean.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\bin\Debug\net5.0\ref\ungkapanboolean.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\bin\Debug\net5.0\ungkapanboolean.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\obj\Debug\net5.0\ungkapanboolean.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\obj\Debug\net5.0\ungkapanboolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\obj\Debug\net5.0\ungkapanboolean.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\obj\Debug\net5.0\ungkapanboolean.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\obj\Debug\net5.0\ungkapanboolean.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\obj\Debug\net5.0\ungkapanboolean.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\obj\Debug\net5.0\ref\ungkapanboolean.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\obj\Debug\net5.0\ungkapanboolean.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\ungkapanboolean\obj\Debug\net5.0\ungkapanboolean.genruntimeconfig.cache

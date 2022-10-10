@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\bin\Debug\net5.0\pernyataan_do_while_while_dan_continue.exe
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\bin\Debug\net5.0\pernyataan_do_while_while_dan_continue.deps.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\bin\Debug\net5.0\pernyataan_do_while_while_dan_continue.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\bin\Debug\net5.0\pernyataan_do_while_while_dan_continue.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\bin\Debug\net5.0\pernyataan_do_while_while_dan_continue.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\bin\Debug\net5.0\ref\pernyataan_do_while_while_dan_continue.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\bin\Debug\net5.0\pernyataan_do_while_while_dan_continue.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\obj\Debug\net5.0\pernyataan_do_while_while_dan_continue.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\obj\Debug\net5.0\pernyataan_do_while_while_dan_continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\obj\Debug\net5.0\pernyataan_do_while_while_dan_continue.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\obj\Debug\net5.0\pernyataan_do_while_while_dan_continue.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\obj\Debug\net5.0\pernyataan_do_while_while_dan_continue.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\obj\Debug\net5.0\pernyataan_do_while_while_dan_continue.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\obj\Debug\net5.0\ref\pernyataan_do_while_while_dan_continue.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\obj\Debug\net5.0\pernyataan_do_while_while_dan_continue.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\pernyataan_do_while_while_dan_continue\obj\Debug\net5.0\pernyataan_do_while_while_dan_continue.genruntimeconfig.cache

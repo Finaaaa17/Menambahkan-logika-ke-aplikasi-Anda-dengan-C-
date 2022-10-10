@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\bin\Debug\net5.0\perulangan_for.exe
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\bin\Debug\net5.0\perulangan_for.deps.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\bin\Debug\net5.0\perulangan_for.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\bin\Debug\net5.0\perulangan_for.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\bin\Debug\net5.0\perulangan_for.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\bin\Debug\net5.0\ref\perulangan_for.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\bin\Debug\net5.0\perulangan_for.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\obj\Debug\net5.0\perulangan_for.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\obj\Debug\net5.0\perulangan_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\obj\Debug\net5.0\perulangan_for.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\obj\Debug\net5.0\perulangan_for.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\obj\Debug\net5.0\perulangan_for.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\obj\Debug\net5.0\perulangan_for.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\obj\Debug\net5.0\ref\perulangan_for.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\obj\Debug\net5.0\perulangan_for.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\perulangan_for\obj\Debug\net5.0\perulangan_for.genruntimeconfig.cache

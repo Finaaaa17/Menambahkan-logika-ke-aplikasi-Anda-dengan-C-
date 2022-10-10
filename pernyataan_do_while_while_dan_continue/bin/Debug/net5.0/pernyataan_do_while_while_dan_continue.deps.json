@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pernyataan_do_while_while_dan_continue/1.0.0": {
+        "runtime": {
+          "pernyataan_do_while_while_dan_continue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pernyataan_do_while_while_dan_continue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

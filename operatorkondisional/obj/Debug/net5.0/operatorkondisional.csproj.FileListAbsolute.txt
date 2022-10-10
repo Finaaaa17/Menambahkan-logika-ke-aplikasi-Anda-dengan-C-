@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\bin\Debug\net5.0\operatorkondisional.exe
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\bin\Debug\net5.0\operatorkondisional.deps.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\bin\Debug\net5.0\operatorkondisional.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\bin\Debug\net5.0\operatorkondisional.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\bin\Debug\net5.0\operatorkondisional.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\bin\Debug\net5.0\ref\operatorkondisional.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\bin\Debug\net5.0\operatorkondisional.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\obj\Debug\net5.0\operatorkondisional.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\obj\Debug\net5.0\operatorkondisional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\obj\Debug\net5.0\operatorkondisional.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\obj\Debug\net5.0\operatorkondisional.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\obj\Debug\net5.0\operatorkondisional.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\obj\Debug\net5.0\operatorkondisional.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\obj\Debug\net5.0\ref\operatorkondisional.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\obj\Debug\net5.0\operatorkondisional.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\operatorkondisional\obj\Debug\net5.0\operatorkondisional.genruntimeconfig.cache
