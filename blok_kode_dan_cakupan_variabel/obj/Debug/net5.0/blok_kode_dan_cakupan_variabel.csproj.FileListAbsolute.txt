@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\bin\Debug\net5.0\blok_kode_dan_cakupan_variabel.exe
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\bin\Debug\net5.0\blok_kode_dan_cakupan_variabel.deps.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\bin\Debug\net5.0\blok_kode_dan_cakupan_variabel.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\bin\Debug\net5.0\blok_kode_dan_cakupan_variabel.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\bin\Debug\net5.0\blok_kode_dan_cakupan_variabel.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\bin\Debug\net5.0\ref\blok_kode_dan_cakupan_variabel.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\bin\Debug\net5.0\blok_kode_dan_cakupan_variabel.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\obj\Debug\net5.0\blok_kode_dan_cakupan_variabel.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\obj\Debug\net5.0\blok_kode_dan_cakupan_variabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\obj\Debug\net5.0\blok_kode_dan_cakupan_variabel.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\obj\Debug\net5.0\blok_kode_dan_cakupan_variabel.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\obj\Debug\net5.0\blok_kode_dan_cakupan_variabel.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\obj\Debug\net5.0\blok_kode_dan_cakupan_variabel.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\obj\Debug\net5.0\ref\blok_kode_dan_cakupan_variabel.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\obj\Debug\net5.0\blok_kode_dan_cakupan_variabel.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\blok_kode_dan_cakupan_variabel\obj\Debug\net5.0\blok_kode_dan_cakupan_variabel.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\bin\Debug\net5.0\konstruksi_swicth.exe
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\bin\Debug\net5.0\konstruksi_swicth.deps.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\bin\Debug\net5.0\konstruksi_swicth.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\bin\Debug\net5.0\konstruksi_swicth.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\bin\Debug\net5.0\konstruksi_swicth.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\bin\Debug\net5.0\ref\konstruksi_swicth.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\bin\Debug\net5.0\konstruksi_swicth.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\obj\Debug\net5.0\konstruksi_swicth.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\obj\Debug\net5.0\konstruksi_swicth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\obj\Debug\net5.0\konstruksi_swicth.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\obj\Debug\net5.0\konstruksi_swicth.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\obj\Debug\net5.0\konstruksi_swicth.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\obj\Debug\net5.0\konstruksi_swicth.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\obj\Debug\net5.0\ref\konstruksi_swicth.dll
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\obj\Debug\net5.0\konstruksi_swicth.pdb
+C:\Users\Fina Khairunnisa\Documents\Logika C#\konstruksi_swicth\obj\Debug\net5.0\konstruksi_swicth.genruntimeconfig.cache

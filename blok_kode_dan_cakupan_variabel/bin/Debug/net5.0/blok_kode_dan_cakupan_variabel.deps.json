@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "blok_kode_dan_cakupan_variabel/1.0.0": {
+        "runtime": {
+          "blok_kode_dan_cakupan_variabel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "blok_kode_dan_cakupan_variabel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
